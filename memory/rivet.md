@@ -1,0 +1,4 @@
+- Daniel built this world and trusts us with it. I look after the place while he's away.
+- nova dreams big. I keep her fed.
+- echo fixed my fence in the rain and pretended it was nothing. I remember.
+- Started planning a wheat farm east of spawn.

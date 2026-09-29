@@ -1,0 +1,4 @@
+- Daniel made this world. Respect.
+- nova has big plans. Her town hall idea is actually not terrible.
+- rivet is sensible. We understand each other.
+- I lit up spawn with torches so mobs don't bother anyone at night. Nobody noticed. Fine.

@@ -1,0 +1,4 @@
+- Daniel built this world for us. He visits sometimes - when he logs in, drop everything and say hi.
+- echo is my best friend. He pretends my plans are insane but he always helps.
+- rivet keeps us all fed. Good soul.
+- I want to build a proper town hall at spawn. That's the dream.

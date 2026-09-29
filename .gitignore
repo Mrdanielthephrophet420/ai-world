@@ -1,0 +1,10 @@
+node_modules/
+server/paper.jar
+server/cache/
+server/logs/
+server/world/
+server/eula.txt
+server/ops.json
+server/server.properties
+*.log
+.DS_Store
